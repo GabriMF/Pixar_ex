@@ -1,0 +1,35 @@
+header {
+  background-color: #54bfb5;
+    margin: 30px  30px 0 30px;
+}
+nav {
+    display: flex;
+  align-items: center;
+    justify-content: space-between; 
+    height: 121px;
+}
+
+ul li {
+  list-style: none;
+}
+li {
+  float: left;
+  margin-left: 10px;
+  margin-right: 20px;
+  background-color: #BED95F;
+  width: 97px;
+  height: 34px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+img {
+  width: 309px;
+  height: 50px;
+  margin-left: 45px;
+}
