@@ -1,2 +1,5 @@
+@import "header.css";
+@import "banner.css";
 @import "./pages_styles/home/categories.css";
 @import "../styles/pages_styles/home/newsletter.css";
+@import "footer.css";

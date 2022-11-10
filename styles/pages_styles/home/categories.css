@@ -1,28 +1,21 @@
+/* .categories{
+
+} */
 .gallery_1{
-    position: absolute;
-    left: 23%;
-    align-self: center;
-    margin: auto;
-    border: 2px;
-    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
-.gallery_2{
-    position: absolute;
+.gallery_2{ 
+    display: flex;
     top: 45%;
-    left: 23%;
-    align-self: center;
+    justify-content: center;
 }
 .gallery {
-    position: relative;
-    align-self: center;
+    justify-content: center;
     margin: 30px;
     border: 0px solid rgb(0, 0, 0);
-    float: left;
     width: 180px;
-  }
-  
-    .desc:hover {
-    border: 2px solid rgb(0, 0, 0);
   }
   
   .gallery img {
@@ -40,4 +33,7 @@
     font-size: large;
     font-weight: bold;
     font-family: Arial;
+  }
+  .desc:hover{
+    border: 3px solid rgb(0, 0, 0);
   }
