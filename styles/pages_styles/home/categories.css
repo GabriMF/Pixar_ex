@@ -1,0 +1,43 @@
+.gallery_1{
+    position: absolute;
+    left: 23%;
+    align-self: center;
+    margin: auto;
+    border: 2px;
+    width: auto;
+}
+.gallery_2{
+    position: absolute;
+    top: 45%;
+    left: 23%;
+    align-self: center;
+}
+.gallery {
+    position: relative;
+    align-self: center;
+    margin: 30px;
+    border: 0px solid rgb(0, 0, 0);
+    float: left;
+    width: 180px;
+  }
+  
+    .desc:hover {
+    border: 2px solid rgb(0, 0, 0);
+  }
+  
+  .gallery img {
+    width: 100%;
+    height: 180px;
+  }
+  
+  .desc {
+    padding: 15px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(55, 0, 255);
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial;
+  }
