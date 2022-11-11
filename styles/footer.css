@@ -6,10 +6,12 @@ footer {
     align-items: center;
     justify-content: space-around;
 }
+
 footer #copyright {
     color: white;
     font-size: 24px;
 }
+
 .img-logo {
     width: 309px;
     height: 50px;

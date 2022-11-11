@@ -2,15 +2,18 @@ header {
   background-color: #54bfb5;
     margin: 30px  30px 0 30px;
 }
+
 nav {
     display: flex;
     align-items: center;
     justify-content: space-between; 
     height: 121px;
 }
+
 ul li {
   list-style: none;
 }
+
 li {
   float: left;
   margin-left: 10px;
@@ -22,10 +25,12 @@ li {
   align-items: center;
   justify-content: center;
 }
+
 a {
   text-decoration: none;
   color: white;
 }
+
 .img-logo {
   width: 309px;
   height: 50px;
